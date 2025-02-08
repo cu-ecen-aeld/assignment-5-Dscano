@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aesd-assignments
 This repo contains public starter source code, scripts, and documentation for Advanced Embedded Software Development (ECEN-5713) and Advanced Embedded Linux Development assignments University of Colorado, Boulder.
 
@@ -26,3 +27,10 @@ to synchronize after cloning and before starting each assignment, as discussed i
 As a part of the assignment instructions, you will setup your assignment repo to perform automated testing using github actions.  See [this page](https://github.com/cu-ecen-aeld/aesd-assignments/wiki/Setting-up-Github-Actions) for details.
 
 Note that the unit tests will fail on this repository, since assignments are not yet implemented.  That's your job :) 
+=======
+# Overview
+
+This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
+
+It also contains instructions related to modifying your buildroot project to use with supported hardware platforms.  See [this wiki page](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware) for details.
+>>>>>>> buildroot-assignments-base/master

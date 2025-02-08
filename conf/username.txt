@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 your-github-username-here-in-conf-file
+=======
+aesd-private-repo
+>>>>>>> buildroot-assignments-base/master

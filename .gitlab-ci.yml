@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 image: "cuaesd/aesd-dind"
 
 # See https://docs.gitlab.com/ee/ci/docker/using_docker_build.html#tls-enabled
@@ -22,3 +23,13 @@ test:
         paths:
             - ${CI_PROJECT_DIR}/test.sh.log
         when: always
+=======
+image: "cuaesd/aesd-autotest"
+
+variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+
+test:
+    script:
+        - ./test.sh
+>>>>>>> buildroot-assignments-base/master

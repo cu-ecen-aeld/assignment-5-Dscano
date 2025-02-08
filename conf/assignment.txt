@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 assignment4
+=======
+assignment4-buildroot
+>>>>>>> buildroot-assignments-base/master

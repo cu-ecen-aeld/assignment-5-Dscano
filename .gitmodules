@@ -1,3 +1,7 @@
 [submodule "assignment-autotest"]
 	path = assignment-autotest
+<<<<<<< HEAD
 	url = https://github.com/cu-ecen-aeld/assignment-autotest.git
+=======
+	url = https://github.com/cu-ecen-5013/assignment-autotest
+>>>>>>> buildroot-assignments-base/master
