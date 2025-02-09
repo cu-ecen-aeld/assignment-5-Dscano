@@ -1,3 +1,5 @@
+![Build Status](https://github.com/cu-ecen-aeld/assignment-4-Dscano/actions/workflows/github-actions.yml/badge.svg)
+
 # Overview
 
 This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
